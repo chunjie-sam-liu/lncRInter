@@ -1,0 +1,364 @@
+lncrna	Interacting partner	Interaction Class	Interaction Mode	Organism	Description	Tissue	Phenotype	Method	Pubmed id
+1700003M07Rik	Pou5f1	DNA-TF	Binding	Mus musculus	Only two Oct4 and two Nanog targets fit these stringent criteria, namely AK005651, AK028326 (Gomafu; synonym: Miat), AK043754, and AK141205	mESC	NULL	ChIP	20026622
+2310010G23Rik	Mir361	RNA-RNA	Binding	Mus musculus	MDRL can directly bind to miR-361 and act as an endogenous sponge which downregulates miR-361 expression levels and promotes the processing of pri-miR-484.	NULL	NULL	pull-down assay	25057983
+2700046G09Rik	Mir23a	RNA-RNA	Binding	Mus musculus	miR-23a is facilitating AGO2 association with PTEN or 2700046G09Rik.	mouse brain	NULL	qPCR, Western blot, RIP.	24101522
+Dubr	Myod1	DNA-TF	Binding	Mus musculus	Dum is also transcriptionally induced by MyoD binding upon myoblast differentiation.	C2C12 mouse myoblast cells	Dum is associated with active myogenesis in vitro and in vivo.	ChIP-PCR assay	25686699
+5730457N03Rik	H3f3a	RNA-Protein	Binding	Mus musculus	Evx1as associates with trimethylated H3K4 histones and MLL1, suggesting a role in epigenetic regulation of homeotic loci during ES cell differentiation	embryonic stem cell	ES cell differentiation	RNA-ChIP	18562676
+5730457N03Rik	Kmt2a	RNA-Protein	Binding	Mus musculus	Evx1as associates with trimethylated H3K4 histones and MLL1, suggesting a role in epigenetic regulation of homeotic loci during ES cell differentiation	embryonic stem cell	ES cell differentiation	RNA-ChIP	18562676
+Mirt1	Lgals3	RNA-Protein	Regulation	Mus musculus	Lgals3, which encodes the lectin galactoside-binding soluble 3, was significantly correlated with MIRT1 and MIRT2. 	NULL	NULL	Microarray and In situ hybridization	24917243
+Mirt1	Nppb	RNA-Protein	Regulation	Mus musculus	Nppb, the gene which encodes BNP, was correlated with MIRT1 and showed a 4-fold increase in expression after MI	NULL	NULL	Microarray and In situ hybridization	24917243
+91H	Igf2	RNA-DNA	Regulation	Mus musculus	91H RNA up-regulate Igf2 expression	Myoblasts	Igf2 gene activation	In vitro	22662250
+A130040M12Rik	Sfpq	RNA-Protein	Binding	Mus musculus	VL30-1 RNA binds and releases PSF from Rab23.	NULL	NULL	RIP	19805375
+A130040M12Rik	Sfpq	RNA-Protein	Binding	Mus musculus	Binding of mouse VL30 (A130040M12Rik) retrotransposon RNA to PSF protein induces genes repressed by PSF: effects on steroidogenesis and oncogenesis.	NULL	NULL	In vitro	14704271
+Airn	Ehmt2	RNA-Protein	Binding	Mus musculus	Airrecruitment of G9a to the Slc22a3 promoter is required for gene silencing.	heart	NULL	RNA IP	18988810
+Airn	Slc22a3	RNA-DNA	Binding	Mus musculus	Air accumulates at the Slc22a3 promoter.	heart	NULL	RNA-DNA FISH	18988810
+Airn	Igf2r	DNA-DNA	Regulation	Mus musculus	Igf2r silencing by Airn during late differentiation is accompanied by low-level H3K9me3, but not DNA methylation, on the Igf2r promoter.	mouse embryonic stem cell (ESC)	Airn acts alone to silence Igf2r and that the somatic methylation imprint,	Bisulfite sequencing, qRT-PCR and ChIP 	23444351
+Airn	Igf2r	DNA-DNA	Regulation	Mus musculus	silencing only required Airn transcriptional overlap of the Igf2r promoter, which interferes with RNA polymerase II recruitment in the absence of repressive chromatin. 	mouse embryonic stem cell (ESC)	NULL	RT-qPCR,FISH and ChIP 	23239737
+Airn	Igf2r	DNA-DNA	Regulation	Mus musculus	These data indicate that high levels of Airn driven from the exogenous PGK promoter can silence Igf2r in cis, 	ES cell lines	NULL	qPCR, Western blot	19008856
+AK081227	Mecp2	DNA-TF	Binding	Mus musculus	Mecp2 binding to the 5'end genomic loci of the lncRNAs AK081227 and AK087060	frontal cortex, hypothalamus, thalamus and cerebellum	NULL	ChIP	23611944
+AK087060	Mecp2	DNA-TF	Binding	Mus musculus	Mecp2 binding to the 5'end genomic loci of the lncRNAs AK081227 and AK087060	frontal cortex, hypothalamus, thalamus and cerebellum	NULL	ChIP	23611944
+Arid2-IR	Smad3	DNA-TF	Binding	Mus musculus	the promoter region of Arid2-IR contained a Smad3 binding site and deletion of Smad3 gene completely blocked upregulation of Arid2-IR in the UUO kidney	NULL	promote NF-κB-dependent renal inflammation	ChIP and In Situ Hybridization	25743111
+AS Uchl1	Nr4a2	DNA-TF	Regulation	Mus musculus	AS Uchl1 expression is under the regulation of Nurr1, a major transcription factor involved in dopaminergic cells' differentiation and maintenance	brain 	NULL	ChIP	25883552
+Bc1	Arc	RNA-RNA	Binding	Mus musculus	BC1 RNA would bind to MAP1B, alpha-CamKII, and Arc mRNAs regulated by FMRP.	NULL	NULL	in vitro	12581522
+Bc1	Camk2a	RNA-RNA	Binding	Mus musculus	BC1 RNA would bind to MAP1B, alpha-CamKII, and Arc mRNAs regulated by FMRP.	NULL	NULL	in vitro	12581522
+Bc1	Map1b	RNA-RNA	Binding	Mus musculus	BC1 RNA would bind to MAP1B, alpha-CamKII, and Arc mRNAs regulated by FMRP.	NULL	NULL	in vitro	12581522
+Bc1	Eif4a1	RNA-Protein	Binding	Mus musculus	BC1 RNA binds to eIF4A with high affinity	brain	NULL	EMSA	18316401
+Bc1	Pabpc1	RNA-Protein	Binding	Mus musculus	BC200 RNA and G22 RNA bind common protein partners, SRP9/14 and PABP	brain	NULL	RIP	17175535
+Bc1	Srp14	RNA-Protein	Binding	Mus musculus	BC200 RNA and G22 RNA bind common protein partners, SRP9/14 and PABP	brain	NULL	RIP	17175535
+Bc1	Srp9	RNA-Protein	Binding	Mus musculus	BC200 RNA and G22 RNA bind common protein partners, SRP9/14 and PABP	brain	NULL	RIP	17175535
+Bc1	Eif4a1	RNA-Protein	Binding	Mus musculus	An interaction of the 3'BC1 domain with eIF4A and PABP is responsible for BC1-mediated repression of translation initiation.	Oocytes	inhibit a rate-limitingstep in the assembly of translation initiation complexes.	EMSA	16330711
+Bc1	Pabpc1	RNA-Protein	Binding	Mus musculus	An interaction of the 3'BC1 domain with eIF4A and PABP is responsible for BC1-mediated repression of translation initiation.	Oocytes	inhibit a rate-limitingstep in the assembly of translation initiation complexes.	EMSA	16330711
+Bc1	Fmr1	RNA-Protein	Binding	Mus musculus	Immunoprecipitation(in vivo) and electrophoretic mobility shift assays(in vitro) experiments indicated that FMRP binds directly to BC1.	NULL	NULL	RNA IP	12581522
+Bc1	Eif4a1	RNA-Protein	Binding	Mus musculus	eIF4A and PABP interact directly with BC1 RNA	brain	NULL	EMSA	12451124
+Bc1	Pabpc1	RNA-Protein	Binding	Mus musculus	eIF4A and PABP interact directly with BC1 RNA	brain	NULL	EMSA	12451124
+Bc1	Arhgef28	RNA-Protein	Binding	Mus musculus	In vivo experiments indicated that BC1 bind to a site in the C-terminal domain of p190RhoGEF.	NULL	NULL	RNA IP	12215442
+Bc1	Pabpc1	RNA-Protein	Binding	Mus musculus	PABP binding to BC1 and BC200 RNAsin vitro	brain	NULL	EMSA	12162957
+Bc1	Pura	RNA-Protein	Binding	Mus musculus	Experiments demonstrated that the single-stranded DNA- and RNA-binding protein pur alpha and its isoform, pur beta, linked BC1 RNA to microtubules (MTs).	NULL	NULL	In vitro	11032866
+Bc1	Purb	RNA-Protein	Regulation	Mus musculus	Experiments demonstrated that the single-stranded DNA- and RNA-binding protein pur alpha and its isoform, pur beta, linked BC1 RNA to microtubules (MTs).	NULL	NULL	In vitro	11032866
+Bc1	Pura	RNA-Protein	Binding	Mus musculus	BC1 RNA associates with Pur	NULL	activate transcription of BC1 gene by RNA polymerase III in vitro	RNA IP	11032728
+Bc1	Tsn	RNA-Protein	Binding	Mus musculus	we demonstrated that BC1 RNP contained two,y-,h-element-binding proteins, m-Translin and a 37kDa protein	NULL	NULL	In vitro	9636644
+Bc1	Eif4ebp1	RNA-Protein	Binding	Mus musculus	Bp-1 protein may bind to a newly synthesized BC-1 RNA	NULL	NULL	In vitro	1449502
+Blnc1	Ebf2	DNA-Protein	Binding	Mus musculus	ChIP assay and reporter gene studies indicate that Blnc1 is a direct target of EBF2; EBF2 is recruited to the proximal promoter of Blnc1 and stimulates its expression.	adipocytes	promotes brown and beige adipocyte differentiation and function	Reporter Gene and ChIP Assays	25002143
+Bvht	Suz12	RNA-Protein	Binding	Mus musculus	We also show that Bvht interacts with SUZ12, a component of Polycomb Repressive Complex 2 (PRC2), during cardiomyocyte differentiation suggesting that Bvht mediates epigenetic regulation of cardiac commitment. Bvht directly interacts with SUZ12 during CM differentiation	ESC Lines,neonatal cardiomyocytes		 RNAi, qRT-PCR and ChIP	23352431
+C730036E19Rik	Tardbp	RNA-Protein	Binding	Mus musculus	LncLSTR Interacts with TDP-43 to Regulate Cyp8b1 Expression. TDP-43 binding to the Cyp8b1 promoter was clearly enhanced when lncLSTR was depleted	NULL	regulate TG clearance	RIP and ChIP assays	25738460
+C730036E19Rik	Cyp8b1	RNA-Protein	Regulation	Mus musculus	LncLSTR Interacts with TDP-43 to Regulate Cyp8b1 Expression.Depletion of lncLSTR leads to increased binding of TDP-43, reduced Cyp8b1 gene expression,	NULL	regulate TG clearance	RIP and ChIP assays	25738460
+Carlr	Mir539	RNA-RNA	Binding	Mus musculus	CARL can act as an endogenous miR-539 sponge that regulates PHB2 expression. CARL is able to directly bind to miR-539 in vivo. miR-539 recognize CARL is in a sequence-specific manner.	heart	CARL inhibits anoxia-induced mitochondrial ?ssion and apoptosis	Luciferase reporter assay, Pulldown assay 	24710105
+Dalir	Pou3f3	RNA-TF	Binding	Mus musculus	Dali and POU3F3 protein may interact physically	neuronal tissues	NULL	UV-crosslinked RNA Immunoprecipitation(UV-RIP)	25415054
+Dalir	Gatad2b	RNA-TF	Binding	Mus musculus	Direct interactions between the endogenous Dali transcript and four of these candidate binding proteins	neuronal tissues	NULL	UV-crosslinked RNA Immunoprecipitation(UV-RIP)	25415054
+Dalir	Dnmt1	RNA-Protein	Binding	Mus musculus	both human and mouse Dali associate with DNMT1	neuronal tissues	NULL	UV-RIP	25415054
+Dalir	Sin3a	RNA-Protein	Binding	Mus musculus	Direct interactions between the endogenous Dali transcriptand four of these candidate binding proteins	neuronal tissues	NULL	UV-crosslinked RNA Immunoprecipitation(UV-RIP)	25415054
+Dalir	Smarca4	RNA-Protein	Binding	Mus musculus	Direct interactions between the endogenous Dali transcriptand four of these candidate binding proteins	neuronal tissues	NULL	UV-crosslinked RNA Immunoprecipitation(UV-RIP)	25415054
+Dgcr5	Rest	DNA-TF	Regulation	Mus musculus	DGCR5 is a direct target of REST and downregulated by REST	neural stem cell	NULL	ChIP	19050060
+Dlx6os1	Dlx1	RNA-TF	Binding	Mus musculus	Evf2 recruited DLX and MECP2 transcription factors to important DNA Regulation elements in the Dlx5/6 intergenic region and controlled Dlx5, Dlx6 and Gad1 expression through trans and cis-acting mechanisms.	NULL	Loss of Evf2 affects DLX and MECP2 binding to Dlx 5/6 intergenic enhancers	RIP	19620975
+Dlx6os1	Dlx2	RNA-TF	Binding	Mus musculus	Evf2 recruited DLX and MECP2 transcription factors to important DNA Regulation elements in the Dlx5/6 intergenic region and controlled Dlx5, Dlx6 and Gad1 expression through trans and cis-acting mechanisms.	NULL	Loss of Evf2 affects DLX and MECP2 binding to Dlx 5/6 intergenic enhancers	RIP	19620975
+Dlx6os1	Mecp2	RNA-TF	Binding	Mus musculus	Evf2 recruited DLX and MECP2 transcription factors to important DNA Regulation elements in the Dlx5/6 intergenic region and controlled Dlx5, Dlx6 and Gad1 expression through trans and cis-acting mechanisms.	orebrain	Loss of Evf2 affects DLX and MECP2 binding to Dlx 5/6 intergenic enhancers	RIP	19620975
+Dlx6os1	Dlx2	RNA-TF	Binding	Mus musculus	Evf-2 and Dlx-2 form a complex in vivo	NULL	NULL	RIP	16705037
+Dlx6os1	Smarca4	RNA-Protein	Binding	Mus musculus	While BRG1 directly interacts with DLX1 and Evf2 through distinct binding sites, Evf2 directly inhibits BRG1 ATPase and chromatin remodeling activities.	NULL	NULL	Fluorescent RNA in situ hybridization and immunolocalization (FISH/immuno), followed by confocal mic	26138476
+Fendrr	Ezh2	RNA-Protein	Binding	Mus musculus	The tissue-specific lncRNA Fendrr binds to both the PRC2 and TrxG/MLL complexes	NULL	NULL	RIP	23369715
+Fendrr	Suz12	RNA-Protein	Binding	Mus musculus	The tissue-specific lncRNA Fendrr binds to both the PRC2 and TrxG/MLL complexes	NULL	NULL	RIP	23369715
+Fendrr	Wdr5	RNA-Protein	Binding	Mus musculus	The tissue-specific lncRNA Fendrr binds to both the PRC3 and TrxG/MLL complexes	NULL	NULL	RIP	23369715
+Fendrr	Foxf1	RNA-DNA	Binding	Mus musculus	In vitro binding assay using synthetic RNA oligonucleotide reaveals that promoter fragments of both Foxf1 and Pitx2 coprecipitated with Fendrr.	NULL	NULL	In vitro RNA/dsDNA binding assay	23369715
+Fendrr	Pitx2	RNA-DNA	Binding	Mus musculus	In vitro binding assay using synthetic RNA oligonucleotide reaveals that promoter fragments of both Foxf1 and Pitx2 coprecipitated with Fendrr.	NULL	NULL	In vitro RNA/dsDNA binding assay	23369715
+Firre	Hnrnpu	RNA-Protein	Binding	Mus musculus	Firre directly and specifically binds to hnRNPU	interface with and modulate nuclear architecture across chromosomes	NULL	RIP	24463464
+Firre	Ctcf	DNA-TF	Binding	Mus musculus	CTCF and RAD21 are bound to Firre in female liver (FL) but not in male liver (ML)	female liver	NULL	ChIP-chip	25887447
+Firre	Rad21	DNA-Protein	Binding	Mus musculus	CTCF and RAD21 are bound to Firre in female liver (FL) but not in male liver (ML)	female liver	NULL	ChIP-chip	25887447
+Ftx	Xist	DNA-DNA	Regulation	Mus musculus	Ftx impacts on gene expression within the Xic and in particular on Xist, as Xist is significantly downregulated in the absence of Ftx. These results identify Ftx as an activator of Xist in ES cells and suggest that Ftx could be a novel ncRNA involved in XCI.	ES cell lines	NULL	RNA-FISH, ChIP and MeDIP assays	21118898
+G22	Pabpc1	RNA-Protein	Binding	Mus musculus	BC200 RNA and G22 RNA bind common protein partners, SRP9/14 and PABP	brain	NULL	RIP	17175535
+G22	Srp14	RNA-Protein	Binding	Mus musculus	BC200 RNA and G22 RNA bind common protein partners, SRP9/14 and PABP	brain	NULL	RIP	17175535
+G22	Srp9	RNA-Protein	Binding	Mus musculus	BC200 RNA and G22 RNA bind common protein partners, SRP9/14 and PABP	brain	NULL	RIP	17175535
+Mirt2	Lgals3	RNA-Protein	Regulation	Mus musculus	Lgals3, which encodes the lectin galactoside-binding soluble 3, was significantly correlated with MIRT1 and MIRT2. 	NULL	NULL	Microarray and In situ hybridization	24917243
+H19	Mbd1	RNA-TF	Binding	Mus musculus	We observed that the H19 RNA significantly coimmunoprecipitated with the MBD1 protein	NULL	NULL	RNA-IP	24297921
+H19	Mirlet7e	RNA-RNA	Binding	Mus musculus	H19 binds to let-7 and inhibits its function, acting as a molecular sponge.	NULL	control timing of muscle differentiation	in vitro	24055342
+H19	Mirlet7g	RNA-RNA	Binding	Mus musculus	H19 binds to let-7 and inhibits its function, acting as a molecular sponge.	NULL	control timing of muscle differentiation	in vitro	24055342
+H19	Khsrp	RNA-Protein	Binding	Mus musculus	KSRP Directly Interacts with the H19 lncRNA.	the cytoplasm of proliferating C2C11 cells	NULL	crosslinking immunoprecipitation (HITS-CLIP)	25385579
+H19	Hnrnpu	RNA-Protein	Binding	Mus musculus	the protein hnRNP U interacts with H19, H19 is bound to hnRNP U, and this interaction is located within the 5'882 nt region of H19. 	NULL	NULL	RIP	23811339
+H19	Elavl1	RNA-Protein	Binding	Mus musculus	RNA immunoprecipitation experiments indeed confirmed HuR binding to H19	placentas	slowdown growth of the placenta in the second half of gestation, in preparation for parturition.	RNA immunoprecipitation	22684254
+H19	Cdkn1c	RNA-DNA	Regulation	Mus musculus	Cdkn1c DMR is a target of H19 lncRNA but not of MDB1	NULL	NULL	RNA-IP	24297921
+H19	Igf2	RNA-DNA	Regulation	Mus musculus	H19 lncRNA directly represses Igf2,Slc38a4,and Peg1 by recruiting the MDB1 protein to the DMRs of these three imprinted genes	NULL	NULL	RNA-IP	24297921
+H19	Mest	RNA-DNA	Regulation	Mus musculus	H19 lncRNA directly represses Igf2,Slc38a4,and Peg1 by recruiting the MDB1 protein to the DMRs of these three imprinted genes	NULL	NULL	RNA-IP	24297921
+H19	Slc38a4	RNA-DNA	Regulation	Mus musculus	H19 lncRNA directly represses Igf2,Slc38a4,and Peg1 by recruiting the MDB1 protein to the DMRs of these three imprinted genes	NULL	NULL	RNA-IP	24297921
+H19	Myod1	DNA-TF	Binding	Mus musculus	Chromatin conformation capture experiments reveal direct interaction of CS9 with the H19 promoter, leading to increased H19 expression in the presence of Myod	embryonic muscles	NULL	ChIP-Seq	23406902
+H19	Ctcf	DNA-TF	Binding	Mus musculus	H19 differentially methylated domain (DMD) controls, upon binding with the CTCF protein	muscle;kidney ; liver	NULL	Bisulfite sequencing analysis	21575277
+H19	Ctcf	DNA-TF	Binding	Mus musculus	CTCF bound to the H19 ICR	NULL	NULL	ChIP	20427289
+H19	Smad2	DNA-TF	Binding	Mus musculus	Smads Bind the H19 ICR in a CTCF-dependent Manner	NULL	NULL	ChIP	20427289
+H19	Smad3	DNA-TF	Binding	Mus musculus	Smads Bind the H19 ICR in a CTCF-dependent Manner	NULL	NULL	ChIP	20427289
+H19	Smad4	DNA-TF	Binding	Mus musculus	Smads Bind the H19 ICR in a CTCF-dependent Manner	NULL	NULL	ChIP	20427289
+H19	Ctcf	DNA-TF	Binding	Mus musculus	the chromatin loop organized by the CTCF-bound, differentially methylated region at the Igf2/H19 locus can be detected in mitosis.	NULL	NULL	ChIP	16107875
+H19	Ctcf	DNA-TF	Binding	Mus musculus	CTCF protects the H19 DMD from de novo methylation during oocyte growth and is required for normal preimplantation development.	NULL	NULL	In vitro	14716017
+H19	Mecp2	DNA-TF	Binding	Mus musculus	MeCP2 is recruited to the H19 DMD in vivo and can silence a reporter gene regulated by the H19 DMD in a methylation-dependent manner	liver and brain	silencing the paternal H19 allele	ChIP	11861904
+H19	Esr1	DNA-TF	Regulation	Mus musculus	In vitro experiments indicated that ERalpha up-regulated the H19 promoter.	MCF-7 cells,HBL-100	NULL	In vitro	10442637
+H19	Lgals4	DNA-Protein	Binding	Mus musculus	GAL4 protein bound to the modified H19 DMR-UAS	HEK cells	NULL	CHIP	15273689
+H19	Nctc1	DNA-DNA	Regulation	Mus musculus	Nctc1is co-regulated with Igf2 and H19 and physically interacts with the shared muscle enhancer.	muscle	Nctc1 imprinting	ChIP	23221643
+H19	Igf2	DNA-DNA	Regulation	Mus musculus	H19 DMR has differential interactions with the Igf2 DMRs on the maternal and paternal alleles	HEK cells	NULL	3C assay	15273689
+H19	Huc1	DNA-DNA	Regulation	Mus musculus	HUG1,as a enhancer, interact with the ICR at H19 and the epigenetically regulated silencer at DMR1 of Igf2	mesodermal tissues	epigenetically regulated silencer at differentially methylated region 1	in vitro and in vivo	11874916
+H19	Huc2	DNA-DNA	Regulation	Mus musculus	HUG2,as a enhancer, interact with the ICR at H19 and the epigenetically regulated silencer at DMR1 of Igf2	mesodermal tissues	epigenetically regulated silencer at differentially methylated region 1	in vitro and in vivo	11874916
+H19	Tnnt3	DNA-DNA	Regulation	Mus musculus	Biallelic expression ofTNNT3and co-expression withH19in fast skeletal muscle	skeletal muscle	NULL	in vivo	8968746
+H19	Igf2	DNA-DNA	Regulation	Mus musculus	imprinting regulates the expression of H19 and Igf2 genes in some differentiating cell lineages	ES cells;teratomas	NULL	in situ hybridisation analysis	8641548
+H19	Snai2	DNA-Protein	Regulation	Mus musculus	Slug also up-regulated H19 expression and activated its promoter. 	mouse breast cancer 	enhanced tumor metastasis in vivo	RT-qPCR,ISH,Western blot 	24703882
+H19	Igf2	RNA-DNA	Regulation	Mus musculus	the expression of the imprinted genes H19 and Igf2 is female-biased in the mouse eye	mouse eye	NULL	RT-qPCR 	23437185
+H19	Hnrnpu	RNA-Protein	Binding	Mus musculus	By RNA pull down assay and western blot analysis, we verified that the full length of H19 can bind to the RNA-binding protein hnRNP U. hnRNP U has been reported to be a member of protein complex, hnRNP U/PCAF/RNA PolII. RIP also displayed the association between H19 and hnRNP U/PCAF/RNA PolII.	HCC tissue, cell lines(SMMC7721, HCCLM3)	H19 suppressed HCC progression metastasis	qPCR, RNAi, RNA pulldown, RIP.	23222811
+Halr1	Purb	RNA-Protein	Binding	Mus musculus	linc-HOXA1 RNA represses Hoxa1 by recruiting the protein PURB as a transcriptional cofactor.	NULL	represses Hoxa1 expression	in vivo	23723417
+Halr1	Hoxa	RNA-DNA	Binding	Mus musculus	Haunt?RNA Binds to the Chromatin on?HOXA?Loci	embryonic stem cell		ChIRP DNA-seq	25891907
+Hm629797	Sub1	RNA-TF	Binding	Mus musculus	We also identified interacting proteins of mrhl RNA associated chromatin fraction	testicular	NULL	in vitro and in vivo	25584904
+Hm629797	Hmgb2	RNA-TF	Binding	Mus musculus	We also identified interacting proteins of mrhl RNA associated chromatin fraction	testicular	NULL	in vitro and in vivo	25584904
+Hm629797	Ddx5	RNA-Protein	Binding	Mus musculus	p68 interacts with mrhl RNA in the chromatin and is necessary for mrhl RNA occupancy at GRPAM loci	testicular	NULL	ChOP-PCR	25584904
+Hm629797	Hnrnpa1	RNA-Protein	Binding	Mus musculus	We also identified interacting proteins of mrhl RNA associated chromatin fraction	testicular	NULL	in vitro and in vivo	25584904
+Hm629797	Hnrnpab	RNA-Protein	Binding	Mus musculus	We also identified interacting proteins of mrhl RNA associated chromatin fraction	testicular	NULL	in vitro and in vivo	25584904
+Hm629797	Rbm3	RNA-Protein	Binding	Mus musculus	We also identified interacting proteins of mrhl RNA associated chromatin fraction	testicular	NULL	in vitro and in vivo	25584904
+Hm629797	Hnrnpa2b1	RNA-Protein	Binding	Mus musculus	We also identified interacting proteins of mrhl RNA associated chromatin fraction	testicular	NULL	in vitro and in vivo	25584904
+Hm629797	Ddx5	RNA-Protein	Binding	Mus musculus	Ddx5/p68 is one of the interacting proteins of mrhl RNA	NULL	NULL	in vitroandin vivo	22665494
+Hotair	Ezh2	RNA-Protein	Binding	Mus musculus	phospho-mimic T345D enhances Ezh2 affinity for HOTAIR ncRNA binding	NULL	X chromosome inactivation	in vitro binding assays	21123648
+Hotair	Ezh2	RNA-Protein	Binding	Mus musculus	Immunoprecipitation (IP) of PRC2 subunits Ezh2 or Suz12, and separately the histone demethylase LSD1, from posterior E11.5 embryos specifically retrieved Hotair but not Malat1 nor U1 RNA.This result suggests that Hotair binds both H3K27 methylase and H3K4 demethylase complexes.	posterior E11.5 embryos 	NULL	RIP, ChIP,qPCR and ChIP-seq 	24075995
+Hotair	Suz12	RNA-Protein	Binding	Mus musculus	Immunoprecipitation (IP) of PRC2 subunits Ezh2 or Suz12, and separately the histone demethylase LSD1, from posterior E11.5 embryos specifically retrieved Hotair but not Malat1 nor U1 RNA.This result suggests that Hotair binds both H3K27 methylase and H3K4 demethylase complexes.	posterior E11.5 embryos 	NULL	RIP, ChIP,qPCR and ChIP-seq 	24075995
+Hotair	Kdm1a	RNA-Protein	Binding	Mus musculus	Immunoprecipitation (IP) of PRC2 subunits Ezh2 or Suz12, and separately the histone demethylase LSD1, from posterior E11.5 embryos specifically retrieved Hotair but not Malat1 nor U1 RNA.This result suggests that Hotair binds both H3K27 methylase and H3K4 demethylase complexes.	posterior E11.5 embryos 	NULL	RIP, ChIP,qPCR and ChIP-seq 	24075995
+Hottip	Wdr5	RNA-Protein	Binding	Mus musculus	WDR5 binding to HOTTIP	NULL	NULL	RIP	24521543
+Hottip	Wdr5	RNA-Protein	Binding	Mus musculus	HOTTIP directly binds the adaptor protein WDR5 and targets WDR5/MLL complexes across HOXA	fibroblasts	NULL	RIP	21423168
+Hottip	Kmt2a	RNA-Protein	Binding	Mus musculus	HOTTIP directly binds the adaptor protein WDR5 and targets WDR5/MLL complexes across HOXA	fibroblasts	NULL	RIP	21423168
+Hoxb5os	H3f3a	RNA-Protein	Binding	Mus musculus	Hoxb5/6as associates with trimethylated H3K4 histones and MLL1, suggesting a role in epigenetic regulation of homeotic loci during ES cell differentiation	embryonic stem cell	ES cell differentiation	RNA-ChIP	18562676
+Hoxb5os	Kmt2a	RNA-Protein	Binding	Mus musculus	Hoxb5/6as associates with trimethylated H3K4 histones and MLL1, suggesting a role in epigenetic regulation of homeotic loci during ES cell differentiation	embryonic stem cell	ES cell differentiation	RNA-ChIP	18562676
+Hsr1	Hsf1	RNA-TF	Binding	Mus musculus	HSR1/eEF1A complex binds to HSF1 upon heat shock helping to activate HSF1.	NULL	NULL	RIP	16554823
+Hsr1	Eef1a2	RNA-Protein	Binding	Mus musculus	the amount of HSR1-eEF1A complexesin vivoincreased upon heat shock	NULL	NULL	RIP	16554823
+Jpx	Ctcf	RNA-TF	Binding	Mus musculus	At the onset of XCI, Jpx RNA is upregulated, binds CTCF, and extricates CTCF from one Xist allele.	NULL	NULL	UV-RIP	23791181
+Jpx	Xist	RNA-RNA	Regulation	Mus musculus	Jpx, which acts to upregulate Xist in trans at the Xic.	NULL	Deleting Jpx blocks XCI and is female-lethal.	in vitro	21029862
+Kcnq1ot1	Dnmt1	RNA-Protein	Binding	Mus musculus	Kcnq1ot1 mediates transcriptional gene silencing by interacting with Dnmt1. Kcnq1ot1 recruits Dnmt1 to somatic DMRs by interacting with Dnmt1.	NULL	NULL	RIP	20573698
+Kcnq1ot1	Ezh2	RNA-Protein	Binding	Mus musculus	Kcnqlot1 binds both PRC2 and G9a to promote H3K27me3 and H3K9me3, two different silencing histone marks	placenta,liver	kcnq1 imprinting	RIP	18951091
+Kcnq1ot1	Suz12	RNA-Protein	Binding	Mus musculus	Kcnqlot1 binds both PRC2 and G9a to promote H3K27me3 and H3K9me3, two different silencing histone marks	placenta,liver	kcnq1 imprinting	RIP	18951091
+Kcnq1ot1	H3f3a	RNA-Protein	Binding	Mus musculus	kcnq1ot1 interacts with both H3K9 and H3K27 methyltransferases	placenta,liver	NULL	RIP	18951091
+Kcnq1ot1	Ehmt2	RNA-Protein	Binding	Mus musculus	Kcnqlot1 binds both PRC2 and G9a to promote H3K27me3 and H3K9me3, two different silencing histone marks	placenta,liver	kcnq1 imprinting	RIP	18951091
+Kcnq1ot1	Kcnq1	RNA-DNA	Regulation	Mus musculus	Perhaps paternal expression of Kcnq1ot1 opens the chromatin and makes a tissue-specific silencer available to factors that repress Kcnq1	heart	NULL	in vitro	23028363
+Kcnq1ot1	Cd81	RNA-DNA	Regulation	Mus musculus	we found a 2-fold enrichment of regions corresponding to the promoters of the imprinted genes Kcnq1, Cdkn1c, Cd81, Ascl2, and Osbpl5	placenta,liver	NULL	ChRIP	18951091
+Kcnq1ot1	Cdkn1c	RNA-DNA	Regulation	Mus musculus	we found a 2-fold enrichment of regions corresponding to the promoters of the imprinted genes Kcnq1, Cdkn1c, Cd81, Ascl2, and Osbpl5	placenta,liver	NULL	ChRIP	18951091
+Kcnq1ot1	Kcnq1	RNA-DNA	Regulation	Mus musculus	we found a 2-fold enrichment of regions corresponding to the promoters of the imprinted genes Kcnq1, Cdkn1c, Cd81, Ascl2, and Osbpl5	placenta,liver	NULL	ChRIP	18951091
+Kcnq1ot1	Ascl2	RNA-DNA	Regulation	Mus musculus	we found a 2-fold enrichment of regions corresponding to the promoters of the imprinted genes Kcnq1, Cdkn1c, Cd81, Ascl2, and Osbpl5	placenta,liver	NULL	ChRIP	18951091
+Kcnq1ot1	Osbpl5	RNA-DNA	Regulation	Mus musculus	we found a 2-fold enrichment of regions corresponding to the promoters of the imprinted genes Kcnq1, Cdkn1c, Cd81, Ascl2, and Osbpl5	placenta,liver	NULL	ChRIP	18951091
+Kcnq1ot1	Tbx5	DNA-TF	Binding	Mus musculus	The Tbx5 fragment also contacts the Kcnq1ot1 promoter and a CTCF binding site 211 kb upstream	NULL	NULL	ChIP, MeDIP and 3C assays 	25539921
+linc1253?	Pou5f1	DNA-TF	Binding	Mus musculus	coactivator function of Pontin is mediated by Oct4 binding to the?linc1253?promoter.	embryonic stem (ES) cells		promoter-luciferase reporters	25857206
+Linc-md1	Mir135a-1	RNA-RNA	Binding	Mus musculus	linc-MD1 sponges miR-133 and miR-135 to regulate the expression of mastermind-like-1(MAML1) and myocyte-specific enhancer factor 2C (MEF2C), which are transcription factors that activate muscle-specific gene expression in mouse and human myoblasts	muscle	NULL	in vitro	22000014
+Linc-md1	Mir133b	RNA-RNA	Binding	Mus musculus	linc-MD1 sponges miR-133 and miR-135 to regulate the expression of mastermind-like-1(MAML1) and myocyte-specific enhancer factor 2C (MEF2C), which are transcription factors that activate muscle-specific gene expression in mouse and human myoblasts	muscle	NULL	in vitro	22000014
+Linc-md1	Mir135a-2	RNA-RNA	Binding	Mus musculus	linc-MD1 sponges miR-133 and miR-135 to regulate the expression of mastermind-like-1(MAML1) and myocyte-specific enhancer factor 2C (MEF2C), which are transcription factors that activate muscle-specific gene expression in mouse and human myoblasts	muscle	NULL	in vitro	22000014
+Linc-md1	Mir133b	RNA-RNA	Binding	Mus musculus	HuR is negatively controlled by miR-133, and that linc-MD1, through miR-133 sponging, positively controls HuR levels during early stages of muscle differentiation. In turn, HuR controls linc-MD1 by favoring its accumulation in the cytoplasm at the expense of miR-133b synthesis.	C2C12 murine myoblasts 	NULL	RIP, Biotin-RNA Pull-Down Assay,qRT-PCR,EMSA	24440503
+Lncpint	Trp53	DNA-TF	Binding	Mus musculus	lincRNA-p21 and lincRNA-Mkln1 are bona fide p53 transcriptional targets	NULL	NULL	ChIP	20673990
+LincRNA-1	Trp53	DNA-TF	Binding	Mus musculus	we identified a subset of 22 up-regulated and only 1 down-regulated lincRNA that are direct targets of p53	GM00011 fibroblasts	?in response to DNA damage	ChIP-qPCR	25883152
+LincRNA-4	Trp53	DNA-TF	Binding	Mus musculus	we identified a subset of 22 up-regulated and only 1 down-regulated lincRNA that are direct targets of p53	GM00011 fibroblasts	?in response to DNA damage	ChIP-qPCR	25883152
+LincRNA-7	Trp53	DNA-TF	Binding	Mus musculus	we identified a subset of 22 up-regulated and only 1 down-regulated lincRNA that are direct targets of p53	GM00011 fibroblasts	?in response to DNA damage	ChIP-qPCR	25883152
+Lncbate1	Hnrnpu	RNA-Protein	Binding	Mus musculus	These findings demonstrate a specific and direct interaction between lnc-BATE1 and hnRNP U, suggesting that they form a functional ribonucleoprotein complex to regulate brown adipogenesis.	Adipose Tissue	inhibition impairs concurrent activation of brown fat and repression of white fat?genes	RIP	25921091
+LncHSC-2	Tcf3	RNA-TF	Binding	Mus musculus	LncHSC-2 bind sites are enriched for the hematopoietic-specific TF binding sites, especially E2A	NULL	LncHSC-1 and LncHSC-2 knockdown impacts HSC self-renewal and differentiation	FISH and ChIRP	25772072
+LncMyoD	Immp2l	RNA-Protein	Binding	Mus musculus	LncMyoD directly binds to IGF2-mRNA-binding protein 2 (IMP2) and negatively regulates IMP2-mediated translation of proliferation genes such as N-Ras andc-Myc.	NULL	NULL	Immunofluorescence	26143994
+LncMyoD	Myod1	DNA-TF	Binding	Mus musculus	MyoD binds to within the LncMyoD promoter	NULL	NULL	ChIP	26143994
+Lncpint	Suz12	RNA-Protein	Binding	Mus musculus	We reasoned that these genes might be co-regulated by PRC2 and Pint. We then determined the association of PRC2 with these genes by Suz12 ChIP-qPCR in p53-restored p53LSL/LSL MEFs, with or without inhibition of Pint. The ChIP results confirmed that Suz12 occupied all the analyzed genes in the control conditions.	Lung tumor-derived cell lin	PINT inhibits tumor cell growth.	RACE, RNAi, CHIP, Luciferase reporter assay	24070194
+lncRNA AseT	Tnf	RNA-DNA	Regulation	Mus musculus	LncRNAs SeT and AseT Regulate the Homologous Spatial Proximity and Biallelic Expression of Tnf	NULL	NULL	RNA-DNA FISH and LNA	25770217
+lncRNA SeT	Tnf	RNA-DNA	Regulation	Mus musculus	LncRNAs SeT and AseT Regulate the Homologous Spatial Proximity and Biallelic Expression of Tnf	NULL	NULL	RNA-DNA FISH and LNA	25770217
+lncRNA-Dreh	Vim	RNA-Protein	Binding	Mus musculus	Dreh could combine with the IF protein vimentin, further repress the expression of vimentin, and change the normal cytoskeleton structure	NULL	inhibit HCC growth and metastasis	RIP	23239537
+lncRNA-LALR1	Ctcf	RNA-TF	Binding	Mus musculus	lncRNA-LALR1 facilitated cyclin D1 expression through activation of Wnt/	Mouse Liver Tissues and cells (BNL CL.2 and CCL-9.1 cells)	lncRNA-LALR1 facilitated mouse cell cycle progression and hepatocyte proliferation	RIP and ChIP-seq, RT-qPCR,  	23483581
+lncRNA-Tcam1	CNS1	DNA-Protein	Binding	Mus musculus	CNS1 functions as a promoter of lncRNA-Tcam1; CNS1 can bidirectionally drive the transcription of Smarcd2 and lncRNA-Tcam1 and enhance Tcam1 gene expression	testicular germ and somatic cells	NULL	ChIP and Luciferase assays	25020229
+LOC105246506	Nanog	DNA-TF	Binding	Mus musculus	Only two Oct4 and two Nanog targets fit these stringent criteria, namely AK005651, AK028326 (Gomafu; synonym: Miat), AK043754, and AK141205	mESC	NULL	ChIP	20026622
+LOC105358867	Nanog	DNA-TF	Binding	Mus musculus	Only two Oct4 and two Nanog targets fit these stringent criteria, namely AK005651, AK028326 (Gomafu; synonym: Miat), AK043754, and AK141205	mESC	NULL	ChIP	20026622
+Lrp1-AS	Hmgb2	RNA-TF	Binding	Mus musculus	Lrp1-AS RNA directly and specifically binds to Hmgb2	NULL	NULL	in vitro binding assays	25937287
+m1/2-sbsRNAs	Ly86	RNA-RNA	Regulation	Mus musculus	m1/2-sbsRNAs can mediate the SMD of their predicted target mRNAs	skeletal muscle	cell myogenesis	CLIP	23558772
+Malat1	Yap1	RNA-Protein	Regulation	Mus musculus	YAP interacts with TCF4/-catenin to regulate Malat1 transcription	NULL	Malat1 is overexpressed	RNA Immunoprecipitation	24468535
+Malat1	Srsf1	RNA-Protein	Regulation	Mus musculus	SRSF1 inhibits YAP transcriptional activity and prevents YAP recruitment on the Malat1 promoter	NULL	Malat1 is suppressed	RNA Immunoprecipitation	24468535
+Malat1	Hnrnpc	RNA-Protein	Binding	Mus musculus	MALAT-1 interacts with hnRNP C in cell cycle regulation	NULL	malat1 interacted with hnRNP C and facilitated its cytoplasmic translocation in the G2/M phase, thereby regulating the progress of the cell cycle.	RNA Immunoprecipitation	23973260
+Malat1	Mir133a-1	RNA-RNA	Binding	Mus musculus	Malat1 modulates Srf through miR-133 as a competing endogenous RNA and established a novel connection among Malat1, miR-133, and Srf in myoblast differentiation.	muscle		RNA pull-down assay	25868726
+Meg3	Ezh2	RNA-Protein	Binding	Mus musculus	Gtl2 RNA - most likely its proximal 1 kb - directly and specifically binds PRC2	NULL	bind to the PRC2-chromatin- modifying complex in mESCs.	RIP-seq	21172659
+Meg3	Met	RNA-DNA	Regulation	Mus musculus	a tumor-suppressor long noncoding RNA (MEG3) and suppressed protooncogene (c-MET) combination could elicit menin's tumor-suppressor activity.	insulinoma beta-cells	NULL	in vitro	25565142
+Meg3	Ctcf	DNA-TF	Binding	Mus musculus	In the current study, CTCF was detected at DMR region 9 in ES cells, but was not detected at any region in e12.5 embryos	ES;embryo	NULL	chip	22709555
+Meg3	Mbd1	DNA-TF	Binding	Mus musculus	MBD1 and MBD3 were not present at any region of the Meg3 DMR in ES cells , while in e12.5 embryos MBD3 was detected at region 8 and MBD1 was detected at region 3.	ES;embryo	NULL	chip	22709555
+Meg3	Mbd3	DNA-TF	Binding	Mus musculus	MBD1 and MBD3 were not present at any region of the Meg3 DMR in ES cells , while in e12.5 embryos MBD3 was detected at region 8 and MBD1 was detected at region 4.	ES;embryo	NULL	chip	22709555
+Meg3	Mecp2	DNA-TF	Binding	Mus musculus	MECP2 localized approximately 700 base pairs downstream of the Meg3 DMR region.	ES;embryo	NULL	chip	22709555
+Meg3	Yy1	DNA-TF	Binding	Mus musculus	The current analysis showed that EED was not present at the Meg3 DMR in ES cells, while YY1 was present at regions 3, 4, and 6 . In e12.5 embryos, EED was not detected at any Meg3 DMR region, and YY1 was present at all nine DMR regions.	ES;embryo	NULL	chip	22709555
+Meg3	Zbtb33	DNA-Protein	Binding	Mus musculus	Kaiso(Zbtb33) has not yet been found at any imprinted domains, but we detected it binding to Meg3 DMR region 4 in ES cells.	ES;embryo	NULL	chip	22709555
+Mhrt	Smarca4	RNA-Protein	Binding	Mus musculus	Mhrt can directly interact with the helicase domain of Brg1 to regulate its occupancy and activity,suggesting that Mhrt may function as a decoy for the chromatin remodeler to prevent its occupancy on target gene promoters.	heart	prevent chromatin remodelling	RNA immunoprecipitation	25119045
+Miat	Bmi1	RNA-Protein	Binding	Mus musculus	RNA immunoprecipitation using an antibody specific to BMI1 revealed an interaction with Gomafu lncRNA. 	NULL	NULL	RIP and ChIP assays	25792222
+Miat	Qk	RNA-Protein	Binding	Mus musculus	Gomafu binds directly to the splicing factors QKI and SRSF1	NULL	NULL	NULL	23628989
+Miat	Srsf1	RNA-Protein	Binding	Mus musculus	Gomafu binds directly to the splicing factors QKI and SRSF1	NULL	NULL	NULL	23628989
+Miat	Sf1	RNA-Protein	Binding	Mus musculus	Gomafu RNA binds directly to SF1 in vivo	NULL	NULL	In vivo co-immunoprecipitation	21463453
+Miat	Crybb1	RNA-DNA	Regulation	Mus musculus	Gomafu maintains the PRC1 at the promoter of Crybb1, which serves to repress its expression. 	NULL	NULL	RIP and ChIP assays	25792222
+Miat	Pou5f1	DNA-TF	Binding	Mus musculus	Only two Oct4 and two Nanog targets fit these stringent criteria, namely AK005651, AK028326 (Gomafu; synonym: Miat), AK043754, and AK141205	mESC	NULL	ChIP	20026622
+MIR222HG	Mir222	DNA-DNA	Regulation	Mus musculus	This suggests that the miR-221 and miR-222 are co-transcribed with Lnc-Ang362, the host transcript from which these miRNAs are excised, and that the transcription initiation site to produce the two miRNAs is further upstream.Lnc-Ang362 is required for the expression of two microRNAs known to be involved in cell proliferation induced by Ang II.	Rat Vascular Smooth Muscle Cells	Knockdown of Lnc-Ang362 decreases expression of miR-221 and miR-222 and reduces cell proliferation	qRT-PCR, RNAi and ChIP-seq 	23697773
+MIR222HG	Mir221	DNA-DNA	Regulation	Mus musculus	This suggests that the miR-221 and miR-222 are co-transcribed with Lnc-Ang362, the host transcript from which these miRNAs are excised, and that the transcription initiation site to produce the two miRNAs is further upstream.Lnc-Ang362 is required for the expression of two microRNAs known to be involved in cell proliferation induced by Ang II.	Rat Vascular Smooth Muscle Cells	Knockdown of Lnc-Ang362 decreases expression of miR-221 and miR-222 and reduces cell proliferation	qRT-PCR, RNAi and ChIP-seq 	23697773
+Mrln	Atp2a1	RNA-Protein	Binding	Mus musculus	MLN interacts directly with SERCA and impedes Ca2+ uptake into the SR.	NULL	Myoregulin regulates Ca2+ handling by inhibiting the pump activity of SERCA	coIP	25640239
+Msx1 AS RNA	Msx1	RNA-RNA	Regulation	Mus musculus	In vitro, Msx1 AS RNA decreased endogenous Msx1 S expression and modified Msx1 protein cell distribution.Msx1 AS RNA could also modulate Msx1 function.	NULL	NULL	in vitro	18728357
+Nctc1	Polr2a	RNA-Protein	Binding	Mus musculus	RNAP II association with Nctc1 inversely correlates with H19 transcriptional activation	NULL	Nctc1 imprinting	in viro	23221643
+Nctc1	H19	DNA-DNA	Regulation	Mus musculus	Nctc1is co-regulated with Igf2 and H19 and physically interacts with the shared muscle enhancer.	muscle	Nctc1 imprinting	ChIP	23221643
+Nctc1	Igf2	DNA-DNA	Regulation	Mus musculus	Nctc1is co-regulated with Igf2 and H19 and physically interacts with the shared muscle enhancer.	muscle	Nctc1 imprinting	ChIP	23221643
+Neat1	Mirlet7a-1	RNA-RNA	Binding	Mus musculus	H19 acts as an up-stream regulator of let-7 in skeletal muscle cells, decreased H19 leads to increased bioavailability of let-7.	skeletal muscle cells	H19 depletion impairs insulin sensitivity of muscle cells	in vitro and in vivo	25399420
+Neat1	Gm12966	RNA-Protein	Binding	Mus musculus	NEAT1 Associated with SRp40	adipose	NULL	RNA-IP	25437750
+Neat1	Sfpq	RNA-Protein	Binding	Mus musculus	Neat1 sequesters Sfpq in paraspeckles in luteal cells	NULL	Neat1 knockout (KO) mice stochastically fail to become pregnant 	ISH and immunostaining	25359727
+Neat1	Nono	RNA-Protein	Binding	Mus musculus	NEAT1 RNA binds with paraspeckle proteins.	NULL	Knock-down of NEAT1 RNA leads to loss of Paraspeckles.	nitrocellulose binding assays	19217333
+Neat1	Pspc1	RNA-Protein	Binding	Mus musculus	NEAT1 RNA binds with paraspeckle proteins.	NULL	Knock-down of NEAT1 RNA leads to loss of Paraspeckles.	nitrocellulose binding assays	19217333
+Neat1	Nono	RNA-Protein	Binding	Mus musculus	paraspeckle proteins p54/nrb and PSF selectively associate with and stabilize the longer MENbeta, thereby contributing to the organization of the paraspeckle structure.	NULL	NULL	FISH-IF	19188602
+Neat1	Pspc1	RNA-Protein	Binding	Mus musculus	paraspeckle proteins p54/nrb and PSF selectively associate with and stabilize the longer MENbeta, thereby contributing to the organization of the paraspeckle structure.	NULL	NULL	FISH-IF	19188602
+Neat1	Nono	RNA-Protein	Binding	Mus musculus	Men epsilon/beta transcripts localize to paraspeckles and associate with NONO	NULL	NULL	Co-IP	19106332
+Nron	Lrrk2	RNA-Protein	Binding	Mus musculus	Mechanistic studies showed that LRRK2 was a potent negative regulator of the transcription factor NFAT and was a component of a complex that included the large noncoding RNA NRON.	NULL	NULL	Immunoprecipitation-RNA	21983832
+Nron	Calm1	RNA-Protein	Binding	Mus musculus	Our data show that the role of NRON is considerably more complex: It forms part of a large cytoplasmic RNA-Protein scaffold for NFAT	NULL	NULL	CLIP	21709260
+Nron	Dyrk1a	RNA-Protein	Binding	Mus musculus	Our data show that the role of NRON is considerably more complex: It forms part of a large cytoplasmic RNA-Protein scaffold for NFAT	NULL	NULL	CLIP	21709260
+Nron	Iqgap1	RNA-Protein	Binding	Mus musculus	Our data show that the role of NRON is considerably more complex: It forms part of a large cytoplasmic RNA-Protein scaffold for NFAT	NULL	NULL	CLIP	21709260
+Nron	Gsk3b	RNA-Protein	Binding	Mus musculus	Our data show that the role of NRON is considerably more complex: It forms part of a large cytoplasmic RNA-Protein scaffold for NFAT	NULL	NULL	CLIP	21709260
+Nron	Gm12892	RNA-Protein	Binding	Mus musculus	Our data show that the role of NRON is considerably more complex: It forms part of a large cytoplasmic RNA-Protein scaffold for NFAT	NULL	NULL	CLIP	21709260
+Oct4P4	Suv39h1	RNA-Protein	Binding	Mus musculus	Oct4P4 lncRNA abundance was found to be strongly reduced in anti-SUV39H1 RNA immunoprecipitates after RNAi-mediated reduction of endogenous Oct4P4, thus confirming the specificity of our experiments	 mouse embryonic stem cells	mouse embryonic stem cells (mESCs) self-renewal	RNA immunoprecipitates	26158551
+Oct4P4	Pou5f1	RNA-DNA	Binding	Mus musculus	our data demonstrate that the Oct4P4 lncRNA is required to localize MS2-flag to the Oct4 promoter in MS2-flag/Oct4P4-24 	 mouse embryonic stem cells	mouse embryonic stem cells (mESCs) self-renewal	'Oct4P4-MS2 RNA stem loop' tethering system 	26158551
+Paupar	Pax6	RNA-TF	Binding	Mus musculus	Paupar acts in a transcript dependent manner to regulate Pax6 through physical association with PAX6 protein	neuroblastoma cell	regulates neural growth and differentiation	UV-RIP	24488179
+Pinc	Ezh2	RNA-Protein	Binding	Mus musculus	mPINCinteracts with PRC2 in HC11 cells	NULL	NULL	RIP	22911650
+Pinc	Suz12	RNA-Protein	Binding	Mus musculus	mPINCinteracts with PRC2 in HC11 cells	NULL	NULL	RIP	22911650
+Pinc	Rbbp7	RNA-Protein	Binding	Mus musculus	mPINCinteracts with PRC2 in HC11 cells	NULL	NULL	RIP	22911650
+Pnky	Ptbp1	RNA-Protein	Binding	Mus musculus	Pnky localizes to the nucleus and interacts with the mRNA splicing regulator PTBP1,PTBP1 and Pnky regulate expression of key transcripts related to differentiation.	NULL	Pnky knockdown increases neuronal differentiation in culture and in vivo	ISH, RNA Pulldown and Mass Spectrometry	25800779
+Ptgs2os2	Hnrnpab	RNA-Protein	Binding	Mus musculus	hnRNP-A/B and hnRNP-A2/B1 were identified as specific binding partners for lincRNA-Cox2 in both the nuclear and cytosolic fractions via biotin pull-down assay and Mass Spectrometry, later confirmed by Western blot analysis.	dendritic cells; macrophages	NULL	in vitro	23907535
+Ptgs2os2	Hnrnpa2b1	RNA-Protein	Binding	Mus musculus	hnRNP-A/B and hnRNP-A2/B1 were identified as specific binding partners for lincRNA-Cox2 in both the nuclear and cytosolic fractions via biotin pull-down assay and Mass Spectrometry, later confirmed by Western blot analysis.	dendritic cells; macrophages	NULL	in vitro	23907535
+PU.1 AS lncRNA	Spi1	RNA-RNA	Binding	Mus musculus	PU.1 AS lncRNA promotes adipogenesis through preventing PU.1 mRNA translation via binding to PU.1 mRNA to form mRNA/AS lncRNA	NULL	NULL	in vitro	23749759
+Pvt1	Trp53	DNA-TF	Binding	Mus musculus	p53 directly binds to a canonical response element within the PVT1 locus in a sequence-specific manner.	NULL	NULL	Chromatin immunoprecipitation (ChIP)	22110125
+Rncr4	Ddx3x	RNA-Protein	Regulation	Mus musculus	Rncr4 as an RNA associated with Ddx3x	retina architecture	NULL	RNA immunoprecipitation assays	26041499
+shlnc-EC6	Rac1	RNA-Protein	Binding	Mus musculus	Rac1 is a direct target of shlnc-EC6	erythropoiesis	regulate mouse erythropoiesis	Duel luciferase reporter assays	26098172
+Sirt1 AS	Sirt1	RNA-RNA	Regulation	Mus musculus	Overexpression of Sirt1 AS lncRNA increased the level of Sirt1 protein	heart,kidney,liver,spleen,brain,muscle and white adipose	C2C12 differentiation	in vivo	24480449
+Six3os1	Eya1	RNA-Protein	Binding	Mus musculus	Ezh2 and Eya1/3/4 directly bind Six3OS.	retina	NULL	RIP	21936910
+Six3os1	Eya3	RNA-Protein	Binding	Mus musculus	Ezh2 and Eya1/3/4 directly bind Six3OS.	retina	NULL	RIP	21936910
+Six3os1	Eya4	RNA-Protein	Binding	Mus musculus	Ezh2 and Eya1/3/4 directly bind Six3OS.	retina	NULL	RIP	21936910
+Six3os1	Ezh2	RNA-Protein	Binding	Mus musculus	Ezh2 and Eya1/3/4 directly bind Six3OS	retina	retinal progenitor	RIP	21936910
+Snord116	Rbbp5	RNA-Protein	Binding	Mus musculus	116HG binds to RBBP5 and target loci genome wide	NULL	balance energy consumption	ChIRP-seq	23771028
+Snord116	Crebbp	RNA-DNA	Binding	Mus musculus	116HG binds to RBBP5 and target loci genome wide	NULL	balance energy consumption	ChIRP-seq	23771028
+Snord116	Igf2r	RNA-DNA	Binding	Mus musculus	116HG binds to RBBP5 and target loci genome wide	NULL	balance energy consumption	ChIRP-seq	23771028
+Snord116	Mtor	RNA-DNA	Binding	Mus musculus	116HG binds to RBBP5 and target loci genome wide	NULL	balance energy consumption	ChIRP-seq	23771028
+Tmevpg1	H3f3a	RNA-Protein	Regulation	Mus musculus	NeST RNA was found to bind WDR5, a component of the histone H3 lysine 4 methytransferase complex, and to alter histone 3 methylation at the interferon gamma locus.	NULL	NULL	in viro	23415224
+Tmevpg1	Wdr5	RNA-Protein	Binding	Mus musculus	NeST RNA was found to bind WDR5, a component of the histone H3 lysine 4 methytransferase complex, and to alter histone 3 methylation at the interferon gamma locus.	NULL	NULL	in viro	23415224
+Tmevpg1	Stat4	DNA-TF	Regulation	Mus musculus	Tmevpg1 is regulated by Th1 transcription factors	Th1	NULL	in vitro	22851706
+Tmevpg1	Tbx21	DNA-TF	Regulation	Mus musculus	Tmevpg1 is regulated by Th1 transcription factors	Th1	NULL	in vitro	22851706
+Tmevpg1	Nfkb1	RNA-TF	Regulation	Mus musculus	Here, we show that T-bet guides epigenetic remodeling of Tmevpg1 proximal and distal enhancers leading to recruitment of stimulus-inducible transcription factors, NF-	Th1 cells	NULL	ISH and Luciferase Assay	25225667
+Tmevpg1	Ets1	RNA-TF	Regulation	Mus musculus	Here, we show that T-bet guides epigenetic remodeling of Tmevpg1 proximal and distal enhancers leading to recruitment of stimulus-inducible transcription factors, NF-	Th1 cells	NULL	ISH and Luciferase Assay	25225667
+Trp53cor1	Hnrnpk	RNA-Protein	Binding	Mus musculus	LincRNA-p21 acts with hnRNP-K as a transcriptional co-activator of p53-mediated expression of p21	primary mouse embryonic fibroblasts (MEFs)	LincRNA-p21 enforces the G1/S checkpoint	RNA FISH, ChIP-qPCR	24857549
+Trp53cor1	Setdb1	RNA-TF	Binding	Mus musculus	lincRNA-p21 associates with the H3K9 methyltransferase SETDB1 and the maintenance DNA methyltransferase DNMT1	Induced pluripotent stem cells	does not promote apoptosis or cell senescence in reprogramming	RNA immunoprecipitation(RIP)	25512341
+Trp53cor1	Mir130a	RNA-RNA	Regulation	Mus musculus	Subsequent assessment of the microRNAs present in the pulldown complex by using real-time quantitative (q)PCR analysis led to the identification of bona fide miRNAs that interact with and control the abundance of lincRNA-p21.	NULL	NULL	In vitro	22813890
+Trp53cor1	Mirlet7b	RNA-RNA	Regulation	Mus musculus	Subsequent assessment of the microRNAs present in the pulldown complex by using real-time quantitative (q)PCR analysis led to the identification of bona fide miRNAs that interact with and control the abundance of lincRNA-p21.	NULL	NULL	In vitro	22813890
+Trp53cor1	Mirlet7c-1	RNA-RNA	Regulation	Mus musculus	Subsequent assessment of the microRNAs present in the pulldown complex by using real-time quantitative (q)PCR analysis led to the identification of bona fide miRNAs that interact with and control the abundance of lincRNA-p21.	NULL	NULL	In vitro	22813890
+Trp53cor1	Mir221	RNA-RNA	Regulation	Mus musculus	Subsequent assessment of the microRNAs present in the pulldown complex by using real-time quantitative (q)PCR analysis led to the identification of bona fide miRNAs that interact with and control the abundance of lincRNA-p21.	NULL	NULL	In vitro	22813890
+Trp53cor1	Dnmt1	RNA-Protein	Binding	Mus musculus	lincRNA-p21 associates with the H3K9 methyltransferase SETDB1 and the maintenance DNA methyltransferase DNMT2	Induced pluripotent stem cells	NULL	RNA immunoprecipitation(RIP)	25512341
+Trp53cor1	Mdm2	RNA-Protein	Binding	Mus musculus	lincRNA-p21, a transcriptional target of p53, feeds back to enhance p53 transcriptional activity, at least in part, via binding to mouse double minute 2 (MDM2), an E3 ubiquitin-protein ligase.	coronary artery	NULL	RIP	25156994
+Trp53cor1	Hnrnpk	RNA-Protein	Binding	Mus musculus	lincRNA-p21 physically interacts with hnRNP-K	NULL	signal of triggering apoptosis	RIP	20673990
+Trp53cor1	Trp53	DNA-TF	Binding	Mus musculus	lincRNA-p21 and lincRNA-Mkln1 are bona fide p53 transcriptional targets	NULL	NULL	ChIP	20673990
+Tsix	Xist	RNA-RNA	Regulation	Mus musculus	Tsix blocks Xist upregulation and prevents the recruitment of silencing factors in cis.	NULL	NULL	in vitro	18974356
+Tsix	Ezh2	RNA-Protein	Binding	Mus musculus	Our RIP-seq produced a specific and reproducible profile for the PRC2 transcriptome.	NULL	bind to the PRC2-chromatin- modifying complex in mESCs.	RIP-seq	21172659
+Tsix	Dnmt3a	RNA-Protein	Binding	Mus musculus	Dnmt3a was reproducibly found in a complex with Tsix RNA in both male and female ES cells	ES cell	NULL	RNA-ChIP	16507360
+Tsix	Xist	RNA-DNA	Regulation	Mus musculus	The noncoding Tsix RNA is an antisense repressor of Xist and regulates X inactivation in mice.	extraembryonic	NULL	In vitro	21852535
+Tsix	Xist	RNA-DNA	Regulation	Mus musculus	Tsix directly regulates its transcription.	embryonic stem	NULL	ChIP and RNA-ChIP	16507360
+Tsix	Ctcf	DNA-TF	Binding	Mus musculus	CTCF specifically binds Tsix in vitro	fibroblasts	NULL	ChIP	11743158
+Ttc39aos1	Pycard	RNA-Protein	Regulation	Mus musculus	lincRNA-EPS acts by repressing a number of pro-apoptotic proteins, most prominently the caspase activating adaptor protein Pycard.	NULL	Depleting lincRNA-EPS by shRNAs severely compromised terminal differentiation of erythroid progen-itors and resulted in elevated apoptosis.	in vitro	24609766
+Tunar	Hnrnpk	RNA-Protein	Binding	Mus musculus	TUNA functions by interacting with the RNA-binding proteins PTBP1, hnRNP-K, and nucleolin	NULL	deregulation of hTUNA in the caudate nucleus may be involved in the pathophysiology of HD	RIP	24530304
+Tunar	Ncl	RNA-Protein	Binding	Mus musculus	TUNA functions by interacting with the RNA-binding proteins PTBP1, hnRNP-K, and nucleolin	NULL	deregulation of hTUNA in the caudate nucleus may be involved in the pathophysiology of HD	RIP	24530304
+Tunar	Ptbp1	RNA-Protein	Binding	Mus musculus	TUNA functions by interacting with the RNA-binding proteins PTBP1, hnRNP-K, and nucleolin	NULL	deregulation of hTUNA in the caudate nucleus may be involved in the pathophysiology of HD	RIP	24530304
+Tunar	Fgf4	RNA-DNA	Binding	Mus musculus	TUNA physically binds to the Nanog, Sox2, and Fgf4 promoters and activates transcription by recruiting the multiprotein complex containing PTBP1, hnRNP-K, and NCL	NULL	deregulation of hTUNA in the caudate nucleus may be involved in the pathophysiology of HD	ChIRP	24530304
+Tunar	Sox2	RNA-DNA	Binding	Mus musculus	TUNA physically binds to the Nanog, Sox2, and Fgf4 promoters and activates transcription by recruiting the multiprotein complex containing PTBP1, hnRNP-K, and NCL	NULL	deregulation of hTUNA in the caudate nucleus may be involved in the pathophysiology of HD	ChIRP	24530304
+Tunar	Nanog	RNA-DNA	Binding	Mus musculus	TUNA physically binds to the Nanog, Sox2, and Fgf4 promoters and activates transcription by recruiting the multiprotein complex containing PTBP1, hnRNP-K, and NCL	NULL	deregulation of hTUNA in the caudate nucleus may be involved in the pathophysiology of HD	ChIRP	24530304
+Wfdc21	Stat3	RNA-TF	Binding	Mus musculus	lnc-DC bound directly to STAT3 in the cytoplasm, which promoted STAT3 phosphorylation on tyrosine-705 by preventing STAT3 binding to and dephosphorylation by SHP1. 	NULL	Knockdown of lnc-DC impaired DC differentiation	MS, RIP and biotin-RNA pull-down assay 	24744378
+Xist	Ncor2	RNA-TF	Binding	Mus musculus	Xist silences transcription by directly interacting with SHARP, recruiting SMRT, activating HDAC3, and deacetylating histones to exclude Pol II across the X chromosome	NULL	NULL	RNA FISH	25915022
+Xist	Hmgb1	RNA-TF	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Lin28a	RNA-TF	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Cdx2	RNA-TF	Regulation	Mus musculus	Cdx2, a stem cell factor that determines commitment to the extraembryonic lineage, directly binds Xist and activates expression of Xist RNA in extrembryonic cells.	NULL	X chromosome inactivation	in vitro	22942124
+Xist	Yy1	RNA-TF	Binding	Mus musculus	Xist RNA can bind to the YY1 protein, which acts as a tether nucleate Xist binding to the Xi	embryonic fibroblasts	NULL	RNA FISH	21729784
+Xist	Jpx	RNA-RNA	Regulation	Mus musculus	Xist is controlled by two parallel RNA switches-Tsix for Xa and Jpx for Xi. Whereas Tsix represses Xist on Xa, Jpx activates Xist on Xi.	NULL	Deleting Jpx blocks XCI and is female-lethal.	in vitro	21029862
+Xist	Tsix	RNA-RNA	Regulation	Mus musculus	Tsix hypertranscription is sufficient to block Xist RNA accumulation in a cis-limited manner.	NULL	NULL	RNA-FISH	11481444
+Xist	Spen	RNA-Protein	Binding	Mus musculus	Xist silences transcription by directly interacting with SHARP, recruiting SMRT, activating HDAC3, and deacetylating histones to exclude Pol II across the X chromosome	NULL	NULL	RNA FISH	25915022
+Xist	Hnrnpd	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Celf1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ddx5	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Dhx9	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Erh	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srsf10	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpc	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpa1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpab	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpk	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpl	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Elavl1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ilf3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Khsrp	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Matr3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Myef2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Mybbp1a	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ptbp1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Raly	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rbm3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rbm4	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rbmxl1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rnf2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Khdrbs1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Sap18	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srsf2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srsf3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srsf5	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Tra2b	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ssb	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Alyref	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Zfr	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Xrn2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpdl	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpu	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpa2b1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Nono	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ddx39b	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ptbp2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rbm14	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rybp	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Spen	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Syncrip	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Wtap	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Sarnp	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Sltm	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ddx17	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ilf2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rnmt	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ddx39	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ciz1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpul2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Sfpq	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpll	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Poldip3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpr	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Pcgf5	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpm	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpa0	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srrt	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rbfox2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Trim6	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srsf9	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rnf20	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Igf2bp1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Igf2bp3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Eif4a3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Safb2	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Safb	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Srsf7	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnpa3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Rbm15	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Tardbp	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Ythdc1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Fus	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Fubp3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	L1td1	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Hnrnph3	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Trim71	RNA-Protein	Binding	Mus musculus	Xist lncRNA binds 81 proteins in two waves during X chromosome inactivation	NULL	NULL	ChIRP-MS	25843628
+Xist	Atrx	RNA-Protein	Binding	Mus musculus	ATRX unexpectedly functions as a high-affinity RNA-binding protein that directly interacts with RepA/Xist RNA to promote loading of PRC2 in vivo.	mouse embryonic fibroblasts (MEF)	promote loading of PRC2	UV-crosslink RNA immunoprecipitation (UV-RIP)	25417162
+Xist	Ezh2	RNA-Protein	Binding	Mus musculus	Our RIP-seq produced a specific and reproducible profile for the PRC2 transcriptome.	NULL	bind to the PRC2-chromatin- modifying complex in mESCs.	RIP-seq	21172659
+Xist	Ezh2	RNA-Protein	Binding	Mus musculus	Ezh2 interacts with HOTAIR and Xist	NULL	NULL	in vitro binding assays	21123648
+Xist	Hnrnpu	RNA-Protein	Binding	Mus musculus	hnRNP U Directly Interacts with Xist RNA via RGG RNA-Binding Domain	NULL	NULL	Immunoprecipitation of Xist RNA	20833368
+Xist	Suz12	RNA-Protein	Binding	Mus musculus	Ezh2 - PRC2 subunit that makes direct contact with Xist in vitro	NULL	NULL	RIP	20542000
+Xist	Ezh2	RNA-Protein	Binding	Mus musculus	a 1.6 kb ncRNA within Xist, called RepA, was found to bind the Polycomb complex PRC2 directly.	NULL	RepA depletion abolishes full-length Xist induction and H3-K27 trimethylation of the X. Likewise, PRC2 deficiency compromises Xist upregulation.	RIP	18974356
+Xist	Hrh4	RNA-Protein	Regulation	Mus musculus	Experiments indicated that histone H3 lysine 27 trimethylation (H3K27m3) and H4 lysine 20 monomethylation (H4K20m1) are associated with Xist expression in undifferentiated ES cells and mark the initiation of X inactivation.	NULL	NULL	In vitro	15252442
+Xist	Brca1	RNA-Protein	Binding	Mus musculus	BRCA1 associated with XIST RNA.	NULL	NULL	RNA-FISH	12419249
+Xist	H3f3a	RNA-Protein	Binding	Mus musculus	A hotspot of H3 Lys-9 methylation situated upstream of Xist likely binds a chromodomain protein.	fibroblasts	X chromosome inactivation	ChIP	11747809
+Xist	H2afy	RNA-Protein	Binding	Mus musculus	Xist RNA might directly interact with macroH2A1 or, alternatively, Xist RNA might alter chromatin structure in a way that facilitates the recruitment of macroH2A1.	NULL	NULL	In Vivo	11734999
+Xist	H2afy	RNA-Protein	Binding	Mus musculus	macroH2A1 accumulated as MCBs that are associated with Xist RNA signals upon differentiation and concomitant X inactivation.	ES cells	NULL	immunofluorescence and FISH	10974005
+Xist	Mecp2	DNA-TF	Binding	Mus musculus	Mecp2 bound to the Xist promoter	brain	NULL	ChIP	23611944
+Xist	Pou5f1	DNA-TF	Binding	Mus musculus	Xist is dually regulated by the antisense Tsix RNA and by the Oct4 pluripotency factor.	ES cell	NULL	Chromatin immunoprecipitations (ChIPs)	20727175
+Xist	Satb1	DNA-TF	Regulation	Mus musculus	Identification ofSATB1as a Silencing Factor forXist	lymphoma	Loss of SATB1 in tumor cells abrogates the silencing function of Xist.	in vitro	19386260
+Xist	Nanog	DNA-TF	Binding	Mus musculus	Oct4, Sox2, and Nanog bind the first intron of the Xist gene(intron1)	ESCs	NULL	immunostaining/FISH	18802003
+Xist	Pou5f1	DNA-TF	Binding	Mus musculus	Oct4, Sox2, and Nanog bind the first intron of the Xist gene(intron1)	ESCs	NULL	chip-qPCR	18802003
+Xist	Sox2	DNA-TF	Binding	Mus musculus	Oct4, Sox2, and Nanog bind the first intron of the Xist gene(intron1)	ESCs	NULL	chip-qPCR	18802003
+Xist	Mbd2	DNA-TF	Binding	Mus musculus	Mbd2 binds directly to the Xist gene and contributes to the formation of transcriptionally inert chromatin.	fibroblast	NULL	Chromatin immunoprecipitation (ChIP)	17353271
+Xist	Rlim	DNA-Protein	Binding	Mus musculus	RNF12 initiates XCI independent of pluripotency factor binding toXistintron 1	ES cells	NULL	RNA FISH	21298085
+Xist	Atrx	DNA-Protein	Binding	Mus musculus	The ATRX protein is preferentially enriched at DNA sequences 5' of the Xist locus in female embryonic fibroblasts	somatic cells ;embryonic stem (ES) cells;trophoblast stem (TS) cells	NULL	ChIP	19005673
+Xist	Tsix	RNA-RNA	Regulation	Mus musculus	Xistis controlled by two RNA-based switches - Tsix for Xa, and Jpx for Xi	ES cell		RNA FISH	21029862
+Xist	H2afy	RNA-Protein	Regulation	Mus musculus	These results demonstrate that Xist repression mainly affects macroH2A deposition, but not H3K27me3, on the Xi of pre-iPSCs.	Pluripotent Stem Cells	NULL	RNA FISH and Immunofluorescence Staining	24965076
+Xist	Rlim	DNA-Protein	Binding	Mus musculus	Xist, a long non-coding RNA crucial for both forms of XCI, is activated by the ubiquitin ligase RLIM (also known as Rnf12).	mouse embryonic epiblast		RT-qPCR,RNA FISH and Immunohistochemical analysis 	24870238
+Xist	Prdm14	DNA-Protein	Binding	Mus musculus	PRDM14 promotes XCR through repressing the Xist-activator Rnf12 and through Tsix-dependent binding to Xist intron 1	iPSCs and ESCs		Immunostainings and RNA-FISH	24268575
+Xist	Tsix	RNA-RNA	Regulation	Mus musculus	At the onset of X inactivation, Tsix represses Xist accumulation in cis but does not restore random choice. These results identify for the first time a dual function for Tsix as both a repressor of the steady-state level of Xist expression and as a regulator of the distribution of Xist RNA within the nucleus.	ES cell line	NULL	FISH, Allele-specific RT-PCR	11440993
+Xist	Ezh2	RNA-Protein	Binding	Mus musculus	In contrast to the EMSA results, in addition to a band of the expected molecular weight detected with SUZ12 we also detected a complex that corresponds to EZH2 complexed with 1 rep Wt RNA	-	-	EMSA	26177152
+Xist	Suz12	RNA-Protein	Binding	Mus musculus	In contrast to the EMSA results, in addition to a band of the expected molecular weight detected with SUZ12 we also detected a complex that corresponds to EZH2 complexed with 2 rep Wt RNA	-	-	EMSA	26177152
+Yam-1	Yy1	DNA-TF	Regulation	Mus musculus	YY1 is associated with lincRNA loci and positively regulatesYam-1	C2C12 cells	NULL	ChIP-seq	23942234
